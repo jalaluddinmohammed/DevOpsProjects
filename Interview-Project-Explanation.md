@@ -63,4 +63,3 @@ This comprehensive DevOps project flow ensures security, continuous integration,
 
 ---
 
-**Note:** Adjust the content based on your specific project tools and details.
