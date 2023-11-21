@@ -10,7 +10,7 @@ This project involves setting up a CI/CD pipeline to automate the deployment pro
 
 ### 1. GitHub Repository Setup
 
-- Create a new repository on GitHub named "Jenkins-SonarQube-Docker."
+- Created a new repository on GitHub named "Jenkins-SonarQube-Docker."
 - Upload the code to the repository, or you can use a template from a free CSS website.
 
 ### 2. CI/CD Pipeline Overview
