@@ -52,13 +52,6 @@ This project involves setting up a CI/CD pipeline to automate the deployment pro
 4. **Verify Deployment:**
    - Access the deployed website on your browser to verify functionality.
 
-## Additional Notes
-
-- Ensure that each step is executed in sequence, and dependencies are installed on the EC2 instances.
-- Customize Jenkins, SonarQube, and Docker configurations based on project requirements.
-- Regularly update Jenkins, SonarQube, and Docker to benefit from the latest features and security patches.
-
-By following this CI/CD pipeline, the project aims to automate code deployment, ensure code quality, and streamline the development process.
 
 
 
